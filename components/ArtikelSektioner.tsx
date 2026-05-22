@@ -128,6 +128,7 @@ function SectionTwo({ items }: { items: Artikel[] }) {
           display: 'grid',
           gridTemplateColumns: 'repeat(2, 1fr)',
           gap: 4,
+          height: 600,
         }}
         className="s2-grid"
       >
