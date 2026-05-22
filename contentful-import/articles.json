@@ -1,0 +1,238 @@
+{
+  "entries": [
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Dansk startup udvikler AI-værktøj til små virksomheder"
+        },
+        "slug": {
+          "en-US": "ai-vaerktoej-til-smaa-virksomheder"
+        },
+        "category": {
+          "en-US": "Teknologi"
+        },
+        "author": {
+          "en-US": "Redaktion Danmark"
+        },
+        "summary": {
+          "en-US": "En ny dansk startup vil gøre kunstig intelligens tilgængelig for mindre virksomheder gennem en enkel abonnementsplatform."
+        },
+        "body": {
+          "en-US": "Et nyt teknologifirma fra Aarhus har lanceret en AI-platform målrettet små og mellemstore virksomheder. Platformen skal hjælpe virksomheder med automatisering af kundeservice, marketing og dataanalyse uden behov for tekniske specialister. Ifølge virksomheden er målet at gøre AI mere tilgængeligt for virksomheder med begrænsede ressourcer. Flere eksperter vurderer, at løsningen kan blive attraktiv i takt med stigende digitalisering."
+        },
+        "imageQuery": {
+          "en-US": "modern office artificial intelligence"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Regeringen foreslår ny grøn transportpakke"
+        },
+        "slug": {
+          "en-US": "groen-transportpakke"
+        },
+        "category": {
+          "en-US": "Politik"
+        },
+        "author": {
+          "en-US": "Mikkel Sørensen"
+        },
+        "summary": {
+          "en-US": "En ny politisk aftale skal fremme elbiler og kollektiv transport i hele landet."
+        },
+        "body": {
+          "en-US": "Regeringen har præsenteret en ny grøn transportpakke med fokus på reduktion af CO2-udledning fra vejtrafikken. Forslaget indeholder investeringer i ladestandere, forbedret togdrift og økonomiske incitamenter til køb af elbiler. Oppositionen støtter dele af planen, men kritiserer finansieringen."
+        },
+        "imageQuery": {
+          "en-US": "electric cars city charging station"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Flere unge vælger frivilligt arbejde"
+        },
+        "slug": {
+          "en-US": "unge-vaelger-frivilligt-arbejde"
+        },
+        "category": {
+          "en-US": "Samfund"
+        },
+        "author": {
+          "en-US": "Louise Andersen"
+        },
+        "summary": {
+          "en-US": "Nye tal viser stigende interesse for frivilligt arbejde blandt unge danskere."
+        },
+        "body": {
+          "en-US": "Organisationer over hele landet oplever øget engagement fra unge frivillige. Særligt sociale og miljørelaterede projekter tiltrækker flere deltagere. Eksperter peger på, at mange unge ønsker større mening og fællesskab i deres hverdag."
+        },
+        "imageQuery": {
+          "en-US": "young volunteers community work"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Europæiske lande styrker cybersikkerhed"
+        },
+        "slug": {
+          "en-US": "europa-cybersikkerhed"
+        },
+        "category": {
+          "en-US": "Udland"
+        },
+        "author": {
+          "en-US": "International Desk"
+        },
+        "summary": {
+          "en-US": "Flere europæiske lande investerer massivt i cybersikkerhed efter stigende digitale trusler."
+        },
+        "body": {
+          "en-US": "EU-landene arbejder på nye samarbejder inden for cybersikkerhed for at beskytte kritisk infrastruktur. Investeringerne kommer efter flere højtprofilerede hackerangreb mod offentlige institutioner."
+        },
+        "imageQuery": {
+          "en-US": "cyber security europe technology"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Nye boligprojekter skyder op i danske storbyer"
+        },
+        "slug": {
+          "en-US": "nye-boligprojekter-danmark"
+        },
+        "category": {
+          "en-US": "Indland"
+        },
+        "author": {
+          "en-US": "Anne Holm"
+        },
+        "summary": {
+          "en-US": "Flere store boligprojekter skal afhjælpe manglen på lejeboliger i de største byer."
+        },
+        "body": {
+          "en-US": "Ejendomsudviklere har annonceret flere nye boligprojekter i København, Aarhus og Odense. Projekterne fokuserer især på mindre lejligheder til studerende og unge familier."
+        },
+        "imageQuery": {
+          "en-US": "modern apartment buildings denmark"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Dansk universitet tester robotter i ældreplejen"
+        },
+        "slug": {
+          "en-US": "robotter-i-aeldreplejen"
+        },
+        "category": {
+          "en-US": "Teknologi"
+        },
+        "author": {
+          "en-US": "Jonas Petersen"
+        },
+        "summary": {
+          "en-US": "Forskere undersøger, hvordan robotteknologi kan støtte personale på plejehjem."
+        },
+        "body": {
+          "en-US": "Et dansk universitet har indledt et projekt, hvor robotter skal hjælpe med praktiske opgaver i ældreplejen. Robotterne kan blandt andet transportere medicin og assistere med rengøring."
+        },
+        "imageQuery": {
+          "en-US": "healthcare robot elderly care"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Kommuner ønsker flere midler til folkeskoler"
+        },
+        "slug": {
+          "en-US": "midler-til-folkeskoler"
+        },
+        "category": {
+          "en-US": "Politik"
+        },
+        "author": {
+          "en-US": "Camilla Riis"
+        },
+        "summary": {
+          "en-US": "Flere kommuner efterlyser større investeringer i folkeskolen."
+        },
+        "body": {
+          "en-US": "Kommunale ledere mener, at folkeskolerne mangler ressourcer til at håndtere stigende krav til undervisning og trivsel. Debatten er blevet intensiveret efter nye rapporter om lærermangel flere steder i landet."
+        },
+        "imageQuery": {
+          "en-US": "danish classroom students"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Flere danskere arbejder hjemmefra permanent"
+        },
+        "slug": {
+          "en-US": "hjemmearbejde-danmark"
+        },
+        "category": {
+          "en-US": "Samfund"
+        },
+        "author": {
+          "en-US": "Peter Lind"
+        },
+        "summary": {
+          "en-US": "Hjemmearbejde er blevet en fast del af hverdagen for mange ansatte."
+        },
+        "body": {
+          "en-US": "En ny undersøgelse viser, at mange danske virksomheder fortsætter med fleksible arbejdsmodeller. Flere ansatte arbejder nu hjemmefra flere dage om ugen."
+        },
+        "imageQuery": {
+          "en-US": "remote work home office"
+        }
+      }
+    },
+    {
+      "contentType": "article",
+      "fields": {
+        "title": {
+          "en-US": "Store investeringer i grøn energi i Norden"
+        },
+        "slug": {
+          "en-US": "groen-energi-norden"
+        },
+        "category": {
+          "en-US": "Udland"
+        },
+        "author": {
+          "en-US": "Nordic News"
+        },
+        "summary": {
+          "en-US": "Nordiske lande investerer rekordstore beløb i vedvarende energi."
+        },
+        "body": {
+          "en-US": "Sverige, Norge og Danmark annoncerer nye projekter inden for vind- og solenergi. Målet er at reducere afhængigheden af fossile brændstoffer."
+        },
+        "imageQuery": {
+          "en-US": "wind turbines scandinavia"
+        }
+      }
+    }
+  ]
+}
