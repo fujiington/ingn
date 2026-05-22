@@ -51,7 +51,7 @@ function HeaderArtikel({ artikel }: { artikel: Artikel }) {
 
 function BottomImageCard({ artikel }: { artikel: Artikel }) {
   return (
-    <article style={{ background: '#fff', display: 'flex', flexDirection: 'column' }}>
+    <article style={{ background: '#fff', display: 'flex', flexDirection: 'column', height: '100%' }}>
       <figure style={{ margin: 0, display: 'flex', flexDirection: 'column', height: '100%' }}>
         <figcaption style={{ padding: '14px 14px 10px' }}>
           <h3 style={{ fontSize: 18, lineHeight: 1.28, marginBottom: 6 }}>{artikel.fields.overskrift}</h3>
@@ -63,7 +63,7 @@ function BottomImageCard({ artikel }: { artikel: Artikel }) {
             Læs mere
           </Link>
         </figcaption>
-        <div style={{ position: 'relative', width: '100%', marginTop: 'auto', minHeight: 150 }}>
+        <div style={{ position: 'relative', width: '100%', flex: 1, minHeight: 180 }}>
           <Image
             src={getImageUrl(artikel)}
             alt={artikel.fields.overskrift}
@@ -123,16 +123,35 @@ function SectionTwo({ items }: { items: Artikel[] }) {
 
   return (
     <section style={{ marginTop: 8 }}>
-      <div style={{
-        display: 'grid',
-        gridTemplateColumns: 'repeat(2, 1fr)',
-        gridTemplateRows: '1fr 1fr',
-        gap: 4,
-      }} className="s2-grid">
-        {items[0] && <div style={{ gridColumn: '1 / 2', gridRow: '1 / 3' }}><BottomImageCard artikel={items[0]} /></div>}
-        {items[1] && <div style={{ gridColumn: '2 / 3', gridRow: '1 / 2' }}><BottomImageCard artikel={items[1]} /></div>}
-        {items[2] && <div style={{ gridColumn: '1 / 2', gridRow: '2 / 3' }}><BottomImageCard artikel={items[2]} /></div>}
-        {items[3] && <div style={{ gridColumn: '2 / 3', gridRow: '1 / 3' }}><BottomImageCard artikel={items[3]} /></div>}
+      <div
+        style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(2, 1fr)',
+          gap: 4,
+        }}
+        className="s2-grid"
+      >
+        <div
+          style={{
+            display: 'grid',
+            gridTemplateRows: '2fr 1fr',
+            gap: 4,
+          }}
+        >
+          {items[0] && <BottomImageCard artikel={items[0]} />}
+          {items[2] && <BottomImageCard artikel={items[2]} />}
+        </div>
+
+        <div
+          style={{
+            display: 'grid',
+            gridTemplateRows: '1fr 2fr',
+            gap: 4,
+          }}
+        >
+          {items[1] && <BottomImageCard artikel={items[1]} />}
+          {items[3] && <BottomImageCard artikel={items[3]} />}
+        </div>
       </div>
     </section>
   );
